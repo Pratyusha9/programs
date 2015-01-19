@@ -3,5 +3,6 @@ a=raw_input("Enter your name")
 print "hello %s, welcome" % a
 
 #loops
-for name in ["pratyu", "pratyusha"]
+if a in ["pratyu", "pratyusha"]:
      print "hey admin"
+     print "password:"
